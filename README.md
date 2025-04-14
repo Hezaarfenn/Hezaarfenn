@@ -64,9 +64,6 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hezaarfenn&show_icons=true&locale=en&layout=compact" alt="hezaarfenn" />
-</div>
-
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=hezaarfenn&show_icons=true&locale=en" alt="hezaarfenn" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hezaarfenn&" alt="hezaarfenn" />
 </div>

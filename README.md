@@ -57,6 +57,11 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
 </div>
 
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+  
+![snake gif](https://github.com/sofia11244/sofia11244/blob/output/github-snake-dark.svg)
+
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hezaarfenn&show_icons=true&locale=en&layout=compact" alt="hezaarfenn" />
 </div>

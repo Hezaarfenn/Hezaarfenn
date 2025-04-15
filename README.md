@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/FullStack.png" alt="Heza Gölcük GitHub Banner" width="100%" />
-</p>
-
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd0bWYxa3A4c244dWYzOTV6ZWlrNW9oOWhmczh6dmFkMmEwZndxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dxcDl4a3U1MGo1Mng2MHJ5c3Q1OGxrYjhlYmMzZ2Exajl2anBlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif" />
@@ -109,3 +105,6 @@
 </details>
 
 ---
+<p align="center">
+  <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/FullStack.png" alt="Heza Gölcük GitHub Banner" width="100%" />
+</p>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/FullStack.png" alt="Heza Gölcük GitHub Banner" width="300px" />
+</p>
+
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd0bWYxa3A4c244dWYzOTV6ZWlrNW9oOWhmczh6dmFkMmEwZndxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dxcDl4a3U1MGo1Mng2MHJ5c3Q1OGxrYjhlYmMzZ2Exajl2anBlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif" />
@@ -55,12 +59,26 @@
 🧩 Kısa açıklama: Green Harvest projesi GoIT School'daki ilk takım projemdi. Bir geliştirici olarak HTML ve CSS kullanarak 'Your Order' bölümünü kodladım ve bir takım projesinde yer alan tüm adımları deneyimleyip öğrendim.
 <br></br>
 🚀 Canlı demo: [Vercel-Linki](https://tech-titans-tt.github.io/Green-Harvest/)  
-🛠️ Teknolojiler: Html, CSS
+🛠️ Teknolojiler: Html, CSS, Figma, Trello
 
 - ### 📌 [Cinemania](https://github.com/GO-IT-C-TAKIMI/cinemania)
-🧩 Kısa açıklama: Bir ekip projesine geliştirici olarak katıldım ve modal pencere işlevselliğinin uygulanmasından sorumluydum. 
-🚀 Canlı demo: [Vercel-Linki](https://tech-titans-tt.github.io/Green-Harvest/)  
-🛠️ Teknolojiler: Html, CSS
+🧩 Kısa açıklama: Cinemania dış bir film API'sinden veri çeken, film arama ve detay görüntüleme uygulamasıdır.Bu ekip projesine geliştirici olarak katıldım ve modal pencere işlevselliğinin uygulanmasından sorumluydum.
+<br></br>
+🚀 Canlı demo: [Vercel-Linki](https://go-it-c-takimi.github.io/cinemania/)  
+🛠️ Teknolojiler: Html, CSS, JavaScript, Figma, Trello
+
+- ### 📌 [Money Guard](https://github.com/GoIT-Grup-B/Money-Guard)
+🧩 Kısa açıklama: Money Guard kullanıcıların gelir-giderlerini yönetebileceği, giriş/kayıt sistemine sahip bir kişisel finans takip uygulamasıdır. Projenin Vite ile kurulumunu gerçekleştirdim ve başlangıç taslağını oluşturdum. Scrum master olarak ekip sürecini yönettim, Trello ve GitHub yönetimini üstlendim. Projenin header bölümünü kodladım ve kullanıcı kimlik doğrulama ile finansal analiz bileşenlerine katkıda bulundum.
+<br></br>
+🚀 Canlı demo: [Vercel-Linki](https://money-guard-finovators.vercel.app)  
+🛠️ Teknolojiler: Html, CSS, JavaScript, Figma, Trello, React, Redux Toolkit, Tailwind CSS, React Router, React Chart.js
+
+- ### 📌 [Slim Mom](https://github.com/GoIT-Grup-B)
+🧩 Kısa açıklama: Cinemania dış bir film API'sinden veri çeken, film arama ve detay görüntüleme uygulamasıdır.Bu ekip projesine geliştirici olarak katıldım ve modal pencere işlevselliğinin uygulanmasından sorumluydum.
+<br></br>
+🚀 Canlı demolar: [Frontend Vercel-Linki](https://slim-mom-frontend-five.vercel.app), [Backend Vercel-Linki](https://slimmom-backend-s8n8.onrender.com/api-docs/)  
+🛠️ Frontend Teknolojiler: Html, CSS, JavaScript, Figma, Trello, React, Redux Toolkit, Tailwind CSS, React Router, React Chart.js
+🛠️ Backend Teknolojiler: Html, CSS, JavaScript, Figma, Trello, React, Redux Toolkit, Tailwind CSS, React Router, React Chart.js
 
 ---
 
@@ -112,7 +130,3 @@
 </details>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/FullStack.png" alt="Heza Gölcük GitHub Banner" width="100%" />
-</p>

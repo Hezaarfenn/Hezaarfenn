@@ -115,7 +115,7 @@ I contributed as both a frontend and backend developer. Additionally, I served a
 🧩 Kısa açıklama: Slim Mom kullanıcının kalori hedeflerini ve öğünlerini takip etmesine olanak tanıyan sağlık odaklı bir uygulamadır. Bu proje, GoIT Full Stack Developer Programı'nın final projesi olarak 7 kişilik bir ekip tarafından geliştirilmiştir.
 Projede hem frontend hem de backend geliştiricisi olarak görev aldım. Aynı zamanda Scrum Master rolünü üstlenerek, takım görevlerinin Trello üzerinden planlanmasını sağladım, günlük stand-up toplantılarını yönettim ve sprint planlama ile değerlendirme süreçlerini koordine ettim.
 <br></br>
-🚀 Canlı demolar: [Frontend Vercel-Linki](https://slim-mom-frontend-five.vercel.app), [Backend Vercel-Linki](https://slimmom-backend-s8n8.onrender.com/api-docs/)  
+🚀 Canlı demolar: [Frontend](https://slim-mom-frontend-five.vercel.app) | [Backend API Docs](https://slimmom-backend-s8n8.onrender.com/api-docs/)  
 🛠️ Frontend Teknolojiler: React, Redux Toolkit, Tailwind CSS, React Router, Formik, Yup, Figma, Trello
 🛠️ Backend Teknolojiler: Node.js, Express.js, MongoDB, JWT
 

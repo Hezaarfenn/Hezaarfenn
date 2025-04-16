@@ -61,8 +61,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hezaarfenn&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezaarfenn&layout=compact&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=hezaarfenn&theme=transparent&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats-eight-nu.vercel.app?user=hezaarfenn&theme=transparent&hide_border=true&border_radius=0" alt="GitHub Streak" />
 </p>
 
 ---

@@ -7,21 +7,21 @@
 <h3 align="center">A passionate Full Stack Web Developer based in Antalya, Turkey.</h3>
 
 <p align="center">
-  I'm deeply passionate about web technologies and enjoy building modern, user-friendly applications.<br />
-  I specialize in React on the frontend and Node.js + MongoDB on the backend.
+  I’m passionate about modern web technologies and love building user-friendly, responsive, and full-featured applications.<br/>
+  I specialize in <strong>React</strong> on the frontend and <strong>Node.js + MongoDB</strong> on the backend.
 </p>
 
 ---
 
 <details>
-<summary><b>🇹🇷 Türkçe versiyonu görmek için tıklayın</b></summary>
+<summary><b>🇹🇷 Click to view Turkish version</b></summary>
 
 <h1 align="center">Merhaba 👋, ben Heza Gölcük</h1>
 <h3 align="center">Antalya, Türkiye'de yaşayan bir Full Stack Web Geliştiricisiyim.</h3>
 
 <p align="center">
-  Web teknolojilerine tutkuyla bağlıyım. Modern ve kullanıcı dostu uygulamalar geliştirmekten keyif alıyorum. <br />
-  Frontend'de React, backend'de ise Node.js ve MongoDB kullanarak uçtan uca çözümler geliştiriyorum.
+  Modern web teknolojilerine tutku ile bağlıyım. Kullanıcı dostu, duyarlı ve fonksiyonel uygulamalar geliştirmeyi seviyorum.<br/>
+  Frontend'de <strong>React</strong>, backend'de ise <strong>Node.js + MongoDB</strong> ile çalışıyorum.
 </p>
 
 </details>
@@ -49,10 +49,18 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- **MoneyGuard** – A personal finance tracking app (React + Tailwind + Redux)
-- **Blogify** *(in progress)* – A Tumblr-style content platform (Full Stack, supports light/dark themes)
+- ### 📌 [Green Harvest](https://github.com/Tech-Titans-TT/Green-Harvest)
+🧩 Kısa açıklama: Green Harvest projesi GoIT School'daki ilk takım projemdi. Bir geliştirici olarak HTML ve CSS kullanarak 'Your Order' bölümünü kodladım ve bir takım projesinde yer alan tüm adımları deneyimleyip öğrendim.
+<br></br>
+🚀 Canlı demo: [Vercel-Linki](https://tech-titans-tt.github.io/Green-Harvest/)  
+🛠️ Teknolojiler: Html, CSS
+
+- ### 📌 [Cinemania](https://github.com/GO-IT-C-TAKIMI/cinemania)
+🧩 Kısa açıklama: Bir ekip projesine geliştirici olarak katıldım ve modal pencere işlevselliğinin uygulanmasından sorumluydum. 
+🚀 Canlı demo: [Vercel-Linki](https://tech-titans-tt.github.io/Green-Harvest/)  
+🛠️ Teknolojiler: Html, CSS
 
 ---
 
@@ -69,16 +77,16 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
 <p align="center">
-  <img src="https://github.com/sofia11244/sofia11244/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
 ---
 
 ### 💬 Fun Facts About Me
 
-- 🧠 Always eager to learn – currently focusing on Node.js and backend architecture.
-- 👩‍💻 From frontend roots to full stack wings!
-- 🧒 Proud mom of Bulut, my 8-year-old tech buddy.
+- 🧠 Constant learner – currently focusing on Node.js and backend architecture.
+- 👩‍💻 From frontend roots to full stack growth.
+- 🧒 Proud mom of Bulut, my 9-year-old tech explorer.
 - ❄️ Not a fan of cold weather – but I love hot lines of code!
 
 ---
@@ -94,7 +102,7 @@
 
 - 🧠 Öğrenmeye açık bir geliştiriciyim. Şu an Node.js ve Backend mimarilerine odaklanıyorum.
 - 👩‍💻 Frontend’den gelen, backend’le kuvvetlenmiş bir Full Stack yolculuğundayım.
-- 🧒 8 yaşındaki oğlum Bulut ile teknoloji dolu bir hayat paylaşıyorum.
+- 🧒 9 yaşındaki oğlum Bulut ile teknoloji dolu bir hayat paylaşıyorum.
 - ❄️ Soğuk havaları pek sevmem ama sıcak kod satırlarını çok severim!
 
 ---
@@ -104,6 +112,7 @@
 </details>
 
 ---
+
 <p align="center">
   <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/FullStack.png" alt="Heza Gölcük GitHub Banner" width="100%" />
 </p>

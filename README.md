@@ -89,6 +89,13 @@
   🛠️ **Frontend Stack:** React, Redux Toolkit, Tailwind CSS, React Router, Formik, Yup, Figma, Trello  
   🛠️ **Backend Stack:** Node.js, Express.js, MongoDB, JWT
 
+- ### 📌 [Travel Trucks](https://github.com/Hezaarfenn/TravelTrucks)
+
+  🧩 **Description:** Travel Trucks is a modern and user -friendly catalog application where you can filter and examine camping vehicles with different features. This project is structured with React and Redux Toolkit and works dynamically with the data received through API.
+  <br>  
+  🚀 **Live demo:** [Vercel](https://travel-trucks-sigma-umber.vercel.app/)
+  🛠️ **Tech Stack:** React, Redux Toolkit, Tailwind CSS, React Router, Axios, Figma, Trello
+  
 ---
 
 <details>
@@ -125,6 +132,13 @@
   🛠️ Frontend Teknolojiler: React, Redux Toolkit, Tailwind CSS, React Router, Formik, Yup, Figma, Trello
   🛠️ Backend Teknolojiler: Node.js, Express.js, MongoDB, JWT
 
+- ### 📌 [Travel Truck](https://github.com/Hezaarfenn/TravelTrucks)
+
+  🧩 Kısa açıklama: Travel Trucks, farklı özelliklere sahip kamp araçlarını filtreleyip inceleyebileceğiniz modern ve kullanıcı dostu bir katalog uygulamasıdır. Bu proje, React ve Redux Toolkit ile yapılandırılmış olup API üzerinden alınan verilerle dinamik olarak çalışmaktadır.
+  <br></br>
+  🚀 Canlı demo: [Vercel](https://travel-trucks-sigma-umber.vercel.app/)  
+  🛠️ Teknolojiler: React, Redux Toolkit, Tailwind CSS, React Router, Axios, Figma, Trello
+
 </details>
 
 <!-- ### 📊 GitHub Stats
@@ -159,7 +173,7 @@
 ---
 
 <details>
-<summary><b>🇹🇷 Türkçe versiyonu görmek için tıklayın</b></summary>
+<summary><b>🇹🇷 Click to view Turkish version</b></summary>
 
 ### 💬 Hakkımda Mini Bilgiler
 

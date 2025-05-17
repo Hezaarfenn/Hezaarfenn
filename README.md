@@ -93,8 +93,8 @@
 
   🧩 **Description:** Travel Trucks is a modern and user -friendly catalog application where you can filter and examine camping vehicles with different features. This project is structured with React and Redux Toolkit and works dynamically with the data received through API.
   <br>  
-  🚀 **Live demo:** [Vercel](https://travel-trucks-sigma-umber.vercel.app/)
-  🛠️ **Tech Stack:** React, Redux Toolkit, Tailwind CSS, React Router, Axios, Figma, Trello
+  🚀 **Live demo:** [Vercel](https://travel-trucks-sigma-umber.vercel.app/)  
+  🛠️ Tech Stack: React, Redux Toolkit, Tailwind CSS, React Router, Axios, Figma, Trello
   
 ---
 

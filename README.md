@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/FullStack.png" alt="Heza Gölcük GitHub Banner" width="300px" />
+  <img src="https://github.com/Hezaarfenn/Hezaarfenn/blob/output/img/FullStack.png" alt="FullStack" width="300px" />
 </p>
 
 <div align="center">

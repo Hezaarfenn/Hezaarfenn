@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd0bWYxa3A4c244dWYzOTV6ZWlrNW9oOWhmczh6dmFkMmEwZndxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dxcDl4a3U1MGo1Mng2MHJ5c3Q1OGxrYjhlYmMzZ2Exajl2anBlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif" />
+  <img width="270" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd0bWYxa3A4c244dWYzOTV6ZWlrNW9oOWhmczh6dmFkMmEwZndxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img width="150" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dxcDl4a3U1MGo1Mng2MHJ5c3Q1OGxrYjhlYmMzZ2Exajl2anBlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif" />
 </div>
 
 <h1 align="center">Hi <img align="center" src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Heza Gölcük</h1>
